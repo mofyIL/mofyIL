@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, eu sou João!
 
-<!--
-**mofyIL/mofyIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Estudante de Ciência da Computação | Automação + Cybersecurity**
 
-Here are some ideas to get you started:
+Atualmente trabalhando como Auxiliar Administrativo enquanto aplico meus conhecimentos em tech para automatizar processos e criar sistemas eficientes e seguros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **Projetos em Destaque**
+
+### [🚀 Sistema de Onboarding Automatizado](link-para-repositorio)
+- **Stack:** Google Forms → Make.com → Supabase → Metabase
+- **Descrição:** Pipeline completo para integração de novos funcionários
+- **Resultado:** Redução de X horas para Y minutos no processo
+
+### [🤖 Pipeline de Fechamento com IA](link-para-repositorio)  
+- **Stack:** Telegram → Groq API → Supabase → Metabase
+- **Descrição:** Sistema de 40 módulos para automação do fechamento mensal
+- **Destaque:** Implementação de validações via IA
+
+## 📚 **Atualmente Aprendendo**
+- Python para automação e segurança
+- Fundamentos de Cybersecurity
+- Arquitetura de sistemas seguros
+
+## 🎯 **Objetivos**
+- Primeira oportunidade em tecnologia
+- Transição para área de Cybersecurity
+- Contribuir para projetos open-source
+
+---
+
+📫 **Vamos conversar?** [LinkedIn](www.linkedin.com/in/marquesjvms) | [Email](marquesjvms@outlook.com)
