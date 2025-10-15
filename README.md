@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00C7B7?style=for-the-badge&logo=robot&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=shield-check&logoColor=white)
 # 👋 Hi there, eu sou João!
 
 🎯 **Estudante de Ciência da Computação | Automação + Cybersecurity**
