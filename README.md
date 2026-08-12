@@ -16,7 +16,7 @@ Hoje venho direcionando minha carreira para **desenvolvimento de software, autom
 
 ## 🚀 Projetos e experiências práticas
 
-### NEXATO
+### [NEXATO — Projeto em desenvolvimento](https://github.com/mofyIL/nexato-showcase)
 
 Plataforma web em desenvolvimento para coleta de dados, dashboards, controle de acesso e geração de relatórios.
 
