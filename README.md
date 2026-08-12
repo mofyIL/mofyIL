@@ -1,34 +1,56 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-00C7B7?style=for-the-badge&logo=robot&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=shield-check&logoColor=white)
-# 👋 Hi there, eu sou João!
+# 👋 Olá, eu sou o João!
 
-🎯 **Estudante de Ciência da Computação | Automação + Cybersecurity**
+🎓 Estudante de **Ciência da Computação** e profissional com experiência prática em processos administrativos, financeiro, automação e melhoria de rotinas.
 
-Atualmente trabalhando como Auxiliar Administrativo enquanto aplico meus conhecimentos em tech para automatizar processos e criar sistemas eficientes e seguros.
+Gosto de entender como um processo funciona, identificar tarefas repetitivas e transformar isso em soluções mais simples, rápidas e confiáveis.
 
-## 🔧 **Projetos em Destaque**
+Hoje venho direcionando minha carreira para **desenvolvimento de software, automações e integrações entre sistemas**.
 
-### [🚀 Sistema de Onboarding Automatizado](link-para-repositorio)
-- **Stack:** Google Forms → Make.com → Supabase → Metabase
-- **Descrição:** Pipeline completo para integração de novos funcionários
-- **Resultado:** Redução de X horas para Y minutos no processo
+## 💻 No que venho trabalhando
 
-### [🤖 Pipeline de Fechamento com IA](link-para-repositorio)  
-- **Stack:** Telegram → Groq API → Supabase → Metabase
-- **Descrição:** Sistema de 40 módulos para automação do fechamento mensal
-- **Destaque:** Implementação de validações via IA
+* Automação de processos administrativos e financeiros
+* Integrações entre formulários, APIs, bancos de dados e ERPs
+* Desenvolvimento de sistemas internos e dashboards
+* Supabase/PostgreSQL e manipulação de dados
+* Desenvolvimento assistido por IA, com revisão, testes e validação
 
-## 📚 **Atualmente Aprendendo**
-- Python para automação e segurança
-- Fundamentos de Cybersecurity
-- Arquitetura de sistemas seguros
+## 🚀 Projetos e experiências práticas
 
-## 🎯 **Objetivos**
-- Primeira oportunidade em tecnologia
-- Transição para área de Cybersecurity
-- Contribuir para projetos open-source
+### NEXATO
+
+Plataforma web em desenvolvimento para coleta de dados, dashboards, controle de acesso e geração de relatórios.
+
+**Stack:** Next.js, TypeScript, FastAPI, Python, Supabase/PostgreSQL, APIs REST, Vercel e Railway.
+
+Nesse projeto venho trabalhando na integração entre frontend, backend e banco de dados, além de autenticação, regras de negócio, testes, staging e deploy.
+
+### Automação de fechamento financeiro
+
+Automação desenvolvida a partir de um processo real que antes era executado manualmente por várias pessoas.
+
+O fluxo recebe dados operacionais, consulta regras de preço no Supabase, calcula horas e valores e registra os resultados para conferência.
+
+A solução foi expandida para cerca de **25 clientes**, reduzindo trabalho manual, tempo de execução e diferenças entre os processos.
+
+Também venho trabalhando em integrações com **Omie**, emissão de notas fiscais e na evolução desse fluxo para um sistema interno mais completo.
+
+## 🛠️ Tecnologias e ferramentas
+
+`TypeScript` `Python` `FastAPI` `Next.js` `Supabase` `PostgreSQL` `SQL` `Make.com` `Git` `GitHub` `APIs REST`
+
+## 📚 Atualmente aprofundando
+
+* JavaScript e Node.js
+* APIs REST e integrações
+* SQL e PostgreSQL
+* Desenvolvimento de aplicações web
+
+## 🎯 Objetivo
+
+Construir minha carreira em **desenvolvimento de software**, trabalhando com sistemas internos, automações, integrações e produtos que resolvam problemas reais.
 
 ---
 
-📫 **Vamos conversar?** [LinkedIn](www.linkedin.com/in/marquesjvms) | [Email](marquesjvms@outlook.com)
+📍 Pouso Alegre, MG
+💼 [LinkedIn](https://www.linkedin.com/in/marquesjvms)
+📫 [Email](mailto:marquesjvms@outlook.com)
